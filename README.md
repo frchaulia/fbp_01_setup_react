@@ -1,2 +1,11 @@
-# fbp_01_setup_react
-2141720155 - Faricha Aulia - Framework Based Programming course. JTI Polinema 2024 🪼
+# Laporan Praktikum
+| MatKul | Pemrograman Berbasis Framework | 
+| ---    | ---           |
+| Nama   | Faricha Aulia |
+| NIM    | 2141720155    |
+| Kelas  | TI - 3I       |
+
+## Pertanyaan 1 dan Jawaban
+> "Setup Environment di Komputer."
+
+![Bukti sudah melakukan setup environment](01.png)
